@@ -30,10 +30,10 @@
     "__comment05__": "Telegram bot config",
     "telegram": {
         "__comment01__": "Provide your bot api key from <https://t.me/BotFather>",
-        "api_key": "",
+        "api_key": "7058638017:AAEHZIvejpBQx2vaKyXQDxXn6Vt5-0N8Xbk",
 
         "__comment02__": "IDs of users who can use admin commands (to get id, you can use /chatid command)",
-        "admin_ids": [],
+        "admin_ids": [6191745507],
 
         "__comment03__": "Set to true to block new users by default (whitelist)",
         "ban_by_default": false,
