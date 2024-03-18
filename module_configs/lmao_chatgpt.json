@@ -13,7 +13,7 @@
     "browser_executable_path": "",
 
     "__comment09__": "Major version of browser to pass as version_main argument or null to auto-detect (ex. 122)",
-    "version_main_manual": 122,
+    "version_main_manual": null,
 
     "__comment10__": "Path to driver executable to pass as driver_executable_path argument or empty for auto",
     "__comment11__": "It's recommended ot leave this empty",
