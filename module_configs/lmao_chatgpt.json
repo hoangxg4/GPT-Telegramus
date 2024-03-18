@@ -10,7 +10,7 @@
     "cookies_file": "ChatGPT_cookies.json",
 
     "__comment08__": "Path to browser executable or empty to auto-detect (ex. /usr/bin/google-chrome-stable)",
-    "browser_executable_path": "/usr/bin/google-chrome-stable",
+    "browser_executable_path": "",
 
     "__comment09__": "Major version of browser to pass as version_main argument or null to auto-detect (ex. 122)",
     "version_main_manual": 122,
