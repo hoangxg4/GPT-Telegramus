@@ -34,4 +34,4 @@ WORKDIR /app
 COPY config.json module_configs/ langs/ /app/
 
 # Run main script
-CMD ["telegramus"]
+CMD flask run -h 0.0.0.0 -p 10000 & python main.py
