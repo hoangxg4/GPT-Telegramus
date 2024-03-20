@@ -47,7 +47,7 @@
         "secure": false,
         "session": true,
         "storeId": null,
-        "value": "F=1&SID=070E938DA8036B14139887CBA9156A6F"
+        "value": "SID=0C2493F7F18368F30FC787BFF0556950"
     },
     {
         "domain": ".microsoft.com",
@@ -128,7 +128,7 @@
     },
     {
         "domain": ".microsoft.com",
-        "expirationDate": 1710753707.040303,
+        "expirationDate": 1710921149.502312,
         "hostOnly": false,
         "httpOnly": false,
         "name": "bm_sv",
@@ -137,19 +137,7 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "AD1E99FE69F8EB69AAC5797BE04FF917~YAAQ9hFFdsGyHhiOAQAAMqlwUBeGlTTJyXcUF7r8+PNRJMNWYXtPEJmd1zMZDkeXuSXyYn9mudSE+KwQXSpQYCSiKtOIy+X/PiRRlWpUV1UnQsiDnZ/TkAoAd1/S0Ycwwr0GQ4o3LFAgIVW4e9p/t3c1PVUxew9IJbtpmvCMpZdkfdu+POGFAr0Q5ZoAHB2EcCHRrxZHkgagsvymls9zW21ipLbWD8eWz5QYZKfuh5W4+K2iCGSVSoEJefhaIPK+UKB+Dw==~1"
-    },
-    {
-        "domain": "copilot.microsoft.com",
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "NAP",
-        "path": "/",
-        "sameSite": "no_restriction",
-        "secure": true,
-        "session": true,
-        "storeId": null,
-        "value": "V=1.9&E=1d30&C=TaW2DiQO9SN9pkftxjgRrTf0scW0R_mup8zIqpvk_Logd-XjaMyPZQ&W=1"
+        "value": "743091A489743A4133FC3E7A73CA25EF~YAAQDBFFdiGgyVeOAQAASTtrWhcfIre1ycUqRsOka06kYvCbtBHibiibF9SkbNfrwifdxC/G+splQSZlOfF1GYY28beDSFkdqHAYbfyoRSDxAt/dZRAh/tAmqlsmFFagJSogE0RIfm2vfvUmwFkXTzUzlRFjfUXJ209CUEwMIL3rCXJHcs8GlmA9gawrWP+Ex4c3hqyorN6W7QC95ICuefEcMnomKFErT1s3qA1pkf6Hrc4TAANC+SDT5/BAtsWzNLuZ~1"
     },
     {
         "domain": "copilot.microsoft.com",
@@ -166,7 +154,7 @@
     },
     {
         "domain": "copilot.microsoft.com",
-        "expirationDate": 1744442522.351073,
+        "expirationDate": 1744609949.930456,
         "hostOnly": true,
         "httpOnly": true,
         "name": "MUIDB",
@@ -192,7 +180,7 @@
     },
     {
         "domain": "copilot.microsoft.com",
-        "expirationDate": 1745306544.040176,
+        "expirationDate": 1745473969.252446,
         "hostOnly": true,
         "httpOnly": false,
         "name": "SRCHHPGUSR",
@@ -201,23 +189,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "SRCHLANG=vi&HV=1710746525&BRW=HTP&BRH=T&CW=891&CH=1797&SCW=891&SCH=1797&DPR=2.6&UTC=420&DM=1&PRVCW=1204&PRVCH=2428&CIBV=1.1634.3-nodesign2&cdxupdttm=638463181289668602"
+        "value": "SRCHLANG=vi&HV=1710913950&BRW=HTP&BRH=T&CW=891&CH=1797&SCW=891&SCH=1797&DPR=2.6&UTC=420&DM=1&PRVCW=891&PRVCH=1797&CIBV=1.1634.3-nodesign2&cdxupdttm=638463181289668602"
     },
     {
         "domain": "copilot.microsoft.com",
-        "hostOnly": true,
-        "httpOnly": true,
-        "name": "CSRFCookie",
-        "path": "/",
-        "sameSite": "no_restriction",
-        "secure": true,
-        "session": true,
-        "storeId": null,
-        "value": "6dd38c48-bd3b-4efb-9bc3-5c94d4df2415"
-    },
-    {
-        "domain": "copilot.microsoft.com",
-        "expirationDate": 1742282522.329662,
+        "expirationDate": 1742449950.886976,
         "hostOnly": true,
         "httpOnly": false,
         "name": "MicrosoftApplicationsTelemetryDeviceId",
@@ -230,7 +206,7 @@
     },
     {
         "domain": ".microsoft.com",
-        "expirationDate": 1710748089.678682,
+        "expirationDate": 1710915754.471582,
         "hostOnly": false,
         "httpOnly": false,
         "name": "MS0",
@@ -239,7 +215,7 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "89f0a9c314bc403ebfa573252fefacf8"
+        "value": "70233b0522234c77b90a5bf2059097b9"
     },
     {
         "domain": "copilot.microsoft.com",
@@ -263,11 +239,11 @@
         "secure": false,
         "session": true,
         "storeId": null,
-        "value": "F=1&SID=2B2F675A8ACB6F38275F731C8BAA6E68"
+        "value": "SID=187B399ED07B6A4E090B2DD6D1BD6B5C"
     },
     {
         "domain": "copilot.microsoft.com",
-        "expirationDate": 1745306521.756682,
+        "expirationDate": 1742449949.289348,
         "hostOnly": true,
         "httpOnly": false,
         "name": "_RwBf",
@@ -276,7 +252,7 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "r=0&ilt=1&ihpd=1&ispd=0&rc=0&rb=0&gb=0&rg=0&pc=0&mtu=0&rbb=0.0&g=0&cid=&clo=0&v=2&l=2024-03-18T07:00:00.0000000Z&lft=0001-01-01T00:00:00.0000000&aof=1&ard=0001-01-01T00:00:00.0000000&rwdbt=0001-01-01T16:00:00.0000000-08:00&rwflt=0001-01-01T16:00:00.0000000-08:00&o=0&p=MSAAUTOENROLL&c=MR000T&t=8830&s=2024-03-18T07:22:01.0384837+00:00&ts=2024-03-18T07:22:01.4347822+00:00&rwred=0&wls=2&wlb=0&wle=1&ccp=0&lka=0&lkt=0&aad=0&TH=&mta=0&e=rHxzvIspwLeao3tkuei225BrIMJFSJ8li3OZ4GX6BNTnSNnAGg7QwN1tW4t2ngLPHYeVKkfN0-e3bBpLiiTkCmnoovx_z5X__M3l4eIFxpM&A=85DE0568C218E66A181EB99EFFFFFFFF"
+        "value": "r=0&ilt=1&ihpd=1&ispd=0&rc=0&rb=0&gb=0&rg=0&pc=0&mtu=0&rbb=0.0&g=0&cid=&clo=0&v=1&l=2024-03-19T07:00:00.0000000Z&lft=0001-01-01T00:00:00.0000000&aof=1&ard=0001-01-01T00:00:00.0000000&rwdbt=0001-01-01T16:00:00.0000000-08:00&rwflt=0001-01-01T16:00:00.0000000-08:00&o=0&p=MSAAUTOENROLL&c=MR000T&t=8830&s=2024-03-18T07:22:01.0384837+00:00&ts=2024-03-20T05:52:29.5129297+00:00&rwred=0&wls=2&wlb=0&wle=0&ccp=0&lka=0&lkt=0&aad=0&TH=&mta=0&e=rHxzvIspwLeao3tkuei225BrIMJFSJ8li3OZ4GX6BNTnSNnAGg7QwN1tW4t2ngLPHYeVKkfN0-e3bBpLiiTkCmnoovx_z5X__M3l4eIFxpM&A="
     },
     {
         "domain": "copilot.microsoft.com",
@@ -288,7 +264,7 @@
         "secure": true,
         "session": true,
         "storeId": null,
-        "value": "SID=2B2F675A8ACB6F38275F731C8BAA6E68&R=0&RB=0&GB=0&RG=0&RP=0"
+        "value": "SID=187B399ED07B6A4E090B2DD6D1BD6B5C&R=0&RB=0&GB=0&RG=0&RP=0"
     },
     {
         "domain": "copilot.microsoft.com",
@@ -305,7 +281,7 @@
     },
     {
         "domain": ".microsoft.com",
-        "expirationDate": 1710832922,
+        "expirationDate": 1711000350,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_uetsid",
@@ -314,11 +290,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "2fe24710e4f811eea74b9512701b7d97"
+        "value": "0a3f7c90e67e11ee8ebc0197950dd843"
     },
     {
         "domain": ".microsoft.com",
-        "expirationDate": 1744442522,
+        "expirationDate": 1744609950,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_uetvid",
@@ -331,7 +307,7 @@
     },
     {
         "domain": "copilot.microsoft.com",
-        "expirationDate": 1710748322,
+        "expirationDate": 1710915750,
         "hostOnly": true,
         "httpOnly": false,
         "name": "ai_session",
@@ -340,11 +316,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "i+lkFpkncVCgpdwCPzmRBr|1710746508443|1710746522355"
+        "value": "Z63Rs3eTSDRzqdq4xuYSzg|1710913950918|1710913950918"
     },
     {
         "domain": ".microsoft.com",
-        "expirationDate": 1710753706.361081,
+        "expirationDate": 1710921141.555943,
         "hostOnly": false,
         "httpOnly": true,
         "name": "ak_bmsc",
@@ -353,7 +329,7 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "9E6B687DEE0DF9C70D0F3C2189A9C622~000000000000000000000000000000~YAAQ9hFFdgSwHhiOAQAA8hVwUBe6jeZKbtI+QAfMPCSHdg9Vz/R1y6/Fs2lnq6jlcaix3DakNRlMfsPTRO6hHS6m0MDgtAWBCTPYYP/bTd3ur7mxlrk9q/93la8PJgPGucXKMC2NxC9i/6NWur+ndxXBdEyB4ZL8OmJTwT1lo3ZY24KHj98DebQH7Td3GWBTaW6nydWerd0OViuadxF6fezcilYEmjsfREVkast8aEzKJerWWKczJ4/jsv6q1T1ipJUkc5Iv+AMSc+siZ4MyxyfkJmWuEC+/Mkwu8CleXGkK88jSEhbHdPsnQikLde5z7iUICxT7d3SXeeyslgYBPlwbsBqTPH98R10qLXyYUrLl8GrvibWjMovSfya0CnTrQxB1eg4drZSCQfuVH8vmWnEuNsl8nxod5Wz0u/hgIbn9Qha9DIY="
+        "value": "D51BE74ECCDC594B221BA915C59E1BE5~000000000000000000000000000000~YAAQDBFFdpWfyVeOAQAAYQxrWhfNulWi2cKuca68+a1WS8EwwGUu3F6IBIbIhGqbN8VrsFsrxExN00CW9FH6BNmUs7Nj8cpjfws5XS2Nz8Uik5oVjrlBOtgiUOJTkXKWAYw+DvPOBnq8x6SBNu6xHB5Ivr1gIWV3h5LmEti3DNP2fAb3dR9DoSXikYGUHRzBQFvisW51HFdHuiViDyLTFgv2aoFw3/BA9QNdNDJEVUrua+wDgtb0s5+Rz5dVdkUmMPPU8Cx+CeWQlN++qXiho6doP6PE/UVWFlizrb+7gByUn9RXhilBe6XrQXtQjVlySYN+B8IDr9wD2biUGsFG+5nQe79NL8O7slwBjlOlgs3EZRVsOwUB9AEz/6iv/7JWn1YfgAYvF2YK+eyc"
     },
     {
         "domain": "copilot.microsoft.com",
@@ -419,4 +395,4 @@
         "storeId": null,
         "value": "C=2fdbf7a12be6771d&N=huy"
     }
-      ]
+]
